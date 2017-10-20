@@ -43,6 +43,8 @@ These tasks should be completed in order.
 
 ### Software & Release
 
+- One week before removal Software or Release shall enumerate the directories to be removed on the target machines.
+
 These tasks can be completed in any order.
 
 - Tag and remove the SVN branch corresponding to the release series.
